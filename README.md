@@ -14,4 +14,5 @@ Hardware configuration: Clock initialization, GPIO pin setup, and enabling pull-
 Graphics and sound: Snake and apple sprites for a basic graphical interface, as well as sound effects for key events.
 Input handling: Reads button states for directional movement using GPIO.
 The project demonstrates a blend of low-level hardware control and game development principles, making it suitable for showcasing embedded system capabilities.
+(See main.c in src folder)
 </details>
