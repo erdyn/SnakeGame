@@ -4,9 +4,12 @@ Date:  March 2024 <br>
 Authors:  Susanna Perkins, Ben McCarthy, Dean O'Brien <br>
 Grade:  74% <br>
 
+<!-- GIF of gameplay -->
 ![Gameplay](./resources/snakeGamePlayGIF.gif)
 <br>
 (See main.c in src folder)
+
+<!-- Description -->
 <details>
   <summary> <h3> Description: </h3> </summary>
 This program is a simple snake game implemented in C for an STM32 microcontroller. It leverages the STM32 HAL for hardware interaction, including GPIO, timers, and interrupts, to enable real-time gameplay on an embedded system. The game features a moving snake, eatable apples, and a wrapping screen effect. The program is modular and includes functions for:
